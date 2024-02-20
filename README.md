@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; I'm a software engineer graduated from Instituto Politécnico Nacional in Mexico city.
-- 💼 &nbsp; I'm currently working on back-end dev.
+- 💼 &nbsp; I'm a back-end and firmware developer.
 - 🌱 &nbsp; I'm currently learning about cloud technologies and artificial intelligence.
 - ⚡ &nbsp; I love geek tv series and movies 🖖 _allons-y_ 
 -  💖 &nbsp; I'm a passionate reader of fantasy and sci-fi novels.
