@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; I'm a software engineer graduated from Instituto Politécnico Nacional in Mexico city.
 - 💼 &nbsp; I'm a back-end and firmware developer.
-- 🌱 &nbsp; I'm currently learning about cloud technologies and artificial intelligence.
+- 🌱 &nbsp; I'm currently learning about cloud technologies and data science.
 - ⚡ &nbsp; I love geek tv series and movies 🖖 _allons-y_ 
 -  💖 &nbsp; I'm a passionate reader of fantasy and sci-fi novels.
 
